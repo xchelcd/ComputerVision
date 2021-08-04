@@ -11,10 +11,10 @@ Reads an id and finds the name based on the id's width and height ratio. You can
 Play this game with the computer, use your hands to make rock, paper, scissors, ok or a negative answer
 
 ## Virtual drawing
-Use a pen with green cap to write in the screen. 
-Raise your hand-left to stop drawing
-Take a screenshot
-Change color to paint
-Change thickness to paint/erase
-Records a drawing video
+Use a pen with green cap to write in the screen. </br>
+Raise your hand-left to stop drawing</br>
+Take a screenshot</br>
+Change color to paint</br>
+Change thickness to paint/erase</br>
+Records a drawing video</br>
 Put the contours of a image
