@@ -1,0 +1,9 @@
+1- Python 3.8.2
+• https://www.python.org/downloads/
+2- Pip Python 19.2.3
+• ‘curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py’
+• ‘python get-pip.py’
+3- Opencv 4.5.1
+• ‘pip install opencv-python’
+4- MediaPipe 0.8.5
+• ‘pip install mediapipe’
